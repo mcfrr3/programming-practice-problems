@@ -1,0 +1,22 @@
+{
+  "name": "programming-practice-problems",
+  "version": "1.0.0",
+  "description": "- Number of Islands (calculate the number of contiguous \"islands\" in a grid of different sizes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfrr3/programming-practice-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcfrr3/programming-practice-problems/issues"
+  },
+  "homepage": "https://github.com/mcfrr3/programming-practice-problems#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
